@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-eastus
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: devops-webapp-eastus-1403818995
+  SUBSCRIPTION-ID: devops-webapp-eastus-949019401
   WEBAPP-NAME: devops-webapp-westeurope-1452811759
 
 
